@@ -27,7 +27,7 @@ Diffuculties that arose within the musical scores came within the qualities or t
 
 # \[Week 2\]
 
-
+See below my edited version of a piano transcription of the opening section of my chosen piec When uploaded on Musescore there were a number of issues faced. The opening scene was not massively effected, However when the piece moved into more intricate notes and articultions 
 
 
 
