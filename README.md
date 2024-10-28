@@ -11,7 +11,7 @@ The theme i have chosen for my data set will focus around the piece Tchaichovsky
  
  ## \[Task 3\]
  
-# challenges working with music and music related data within my chosen project
+# Challenges Working With Music and Music Related Data Within My Chosen Project
 
 ## Musical Scores 
 Diffuculties that arose within the musical scores came within the qualities or these scores. IMSLP offer many different verions of scores, these come in the form of scanned by users of IMSLP. Hence only scans of original manuscripts are available, and only available in PDF form.
