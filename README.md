@@ -32,6 +32,16 @@ See below my edited version of a vioin and piano transcription of the opening se
 Within the base line of the piece there was a change of clef which also was not transcribed by the OMR engine. 
 Any grace notes or ornamants of such were aklso muisssing froom the transcription 
 
+#\[week 3\] 
+When Generating a JSymbolic anylsis of my piece, i gained the following information
+Range : 60
+Mean Pitch: 62.04
+Most Common Pitch Class : 45
+Last Pitch : 67
+Most Common rhythmic value : 0.5 
+
+
+
 
 
 
