@@ -5,14 +5,27 @@
    <meiHead xml:id="mtwmsy7">
       <fileDesc xml:id="fkh5oh9">
          <titleStmt xml:id="tzfc3gj">
-            <title>Untitled score</title>
+            <title>Violin Concerto in D Major</title>
             <respStmt>
-               <persName role="composer">Composer / arranger</persName>
+               <persName role="composer">Pyotr Ilyich Tchaikovsky</persName>
             </respStmt>
          </titleStmt>
          <pubStmt xml:id="p1b3fg0t">
+            <publisher>
+               <corpName>P. Jurgenson</corpName>
+            <publisher>
+            <address>
+               <addrLine>
+                  <geoName>Moscow</geoName>
+               </addrLine>
+            </address>
+            <date>1888<date/>
             <date isodate="2024-10-14" type="encoding-date">2024-10-14</date>
          </pubStmt>
+         <avalability>
+            <useRestrict auth.uri="https://imslp.org/wiki/Violin_Concerto,_Op.35_(Tchaikovsky,_Pyotr)"auth="IMSLP">
+            </useRestrict>
+         <availability 
       </fileDesc>
       <encodingDesc xml:id="e1qse2mi">
          <appInfo xml:id="a1q5dn8e">
