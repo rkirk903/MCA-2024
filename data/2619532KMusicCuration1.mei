@@ -21,11 +21,7 @@
             </address>
             <date>1888<date/>
             <date isodate="2024-10-14" type="encoding-date">2024-10-14</date>
-         </pubStmt>
-         <avalability>
-            <useRestrict auth.uri="https://imslp.org/wiki/Violin_Concerto,_Op.35_(Tchaikovsky,_Pyotr)"auth="IMSLP">
-            </useRestrict>
-         <availability 
+         </pubStmt> 
       </fileDesc>
       <encodingDesc xml:id="e1qse2mi">
          <appInfo xml:id="a1q5dn8e">
