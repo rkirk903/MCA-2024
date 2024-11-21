@@ -32,6 +32,8 @@ See below my edited version of a vioin and piano transcription of the opening se
 Within the base line of the piece there was a change of clef which also was not transcribed by the OMR engine. 
 Any grace notes or ornamants of such were aklso muisssing froom the transcription 
 
+ This can be accessed through the link [here](https://github.com/rkirk903/MCA-2024/blob/master/MusicAnalyticsScore2619532K.mscz) 
+ 
 
 
 # \[Week 3\] 
@@ -61,6 +63,10 @@ Most Common Pitch Class : 45
 Last Pitch : 67
 
 Most Common rhythmic value : 0.5
+
+![Music21 data analysis](https://github.com/rkirk903/MCA-2024/blob/master/Music21Graph.png) 
+![Music 21 data analysis 2](https://github.com/rkirk903/MCA-2024/blob/master/ScatterPlot.png)
+
 
 
 
