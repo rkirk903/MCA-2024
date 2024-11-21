@@ -70,6 +70,13 @@ Most Common rhythmic value : 0.5
 
 
 
+# week 8 
+
+##task 2 
+
+
+
+
 
 
 
