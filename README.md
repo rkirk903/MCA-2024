@@ -1,7 +1,8 @@
 # Music Analytics and Curation Portfolio
 
-<Details>
-# <summary> Week 1 </summary>
+
+#  Week 1    
+
 ## \[Task 2\]
 The theme i have chosen for my data set will focus around the piece Tchaichovskys Violin concerto in D major. With a particular focus on the first movement.
   ### Musical Scores
@@ -28,7 +29,7 @@ Similar issues to the musical scores arose within the audio recordings. This inc
  </Details>
 
 
-<Details> 
+
 # <summary>Week 2</summary>
 
 See below my edited version of a vioin and piano transcription of the opening section of my chosen piec When uploaded on Musescore there were a number of issues faced. The opening scene was not massively effected, However when the piece moved into more intricate notes and articultionsthis is were many erros ocurred. This ranged from pitch and rhythm of the notes. 
@@ -39,14 +40,9 @@ Any grace notes or ornamants of such were also misssing from the transcription
  ![ViolinConcertoScore](https://github.com/rkirk903/MCA-2024/blob/master/MusicAnalyticsScore2619532K-1.png)
  
  
-
-<Details> 
-<summary>Week 3</summary>#
+>Week 3
 
 [Verevio of Tchaichovsky Violin Concerto](verovio_markdown.md)
-</Details>
-
-</Details>
 
 
 
@@ -55,8 +51,7 @@ Any grace notes or ornamants of such were also misssing from the transcription
 
 
 
-<Details>
-<summary>Week 4</summary>
+>Week 4
 When Generating a JSymbolic anylsis of my piece, i gained the following information
 
 Range : 60
@@ -72,27 +67,11 @@ Most Common rhythmic value : 0.5
 ![Music21 data analysis](https://github.com/rkirk903/MCA-2024/blob/master/Music21Graph.png) 
 ![Music 21 data analysis 2](https://github.com/rkirk903/MCA-2024/blob/master/ScatterPlot.png)
 
-</Details>
 
-<Details>
-<summary>Week 5</summary>
+>Week 5
 
   
-</Details>
-<Details>
-<summary>Week 6</summary>
-</Details>
-<Details>
-  <summary>Week 7</summary>
-</Details>
 
-<Details>
-  <summary>Week 8</summary>
-</Details>
-
-<Details>
-  <summary>Week 9</summary>
-</Details>
 
 
 
