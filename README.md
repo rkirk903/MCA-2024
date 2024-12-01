@@ -40,7 +40,7 @@ Any grace notes or ornamants of such were also misssing from the transcription
 
 # \[Week 3\] 
 
-[Verevio of Tchaichovsky Violin Concerto](https://github.com/rkirk903/MCA-2024/blob/master/verovio.html)
+[Verevio of Tchaichovsky Violin Concerto](verovio_markdown.md)
 
 
 
