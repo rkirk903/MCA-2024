@@ -1,4 +1,7 @@
-# \[Week 1\]
+# Music Analytics and Curation Portfolio
+
+<Details>
+# <summary> Week 1 </summary>
 ## \[Task 2\]
 The theme i have chosen for my data set will focus around the piece Tchaichovskys Violin concerto in D major. With a particular focus on the first movement.
   ### Musical Scores
@@ -22,11 +25,11 @@ Similar issues to the musical scores arose within the audio recordings. This inc
 
 ## Descrptive Data 
  Issues that arose from this data is that the imformation accuracy reakly depended on on the arrangement and version,. for example the full orchestral one or it has also been arranged for piano, which would change some of the provided descriptive data 
- 
+ </Details>
 
 
-
-# \[Week 2\]
+<Details> 
+# <summary>Week 2</summary>
 
 See below my edited version of a vioin and piano transcription of the opening section of my chosen piec When uploaded on Musescore there were a number of issues faced. The opening scene was not massively effected, However when the piece moved into more intricate notes and articultionsthis is were many erros ocurred. This ranged from pitch and rhythm of the notes. 
 Within the base line of the piece there was a change of clef which also was not transcribed by the OMR engine. 
@@ -37,10 +40,13 @@ Any grace notes or ornamants of such were also misssing from the transcription
  
  
 
-
-# \[Week 3\] 
+<Details> 
+<summary>Week 3</summary>#
 
 [Verevio of Tchaichovsky Violin Concerto](verovio_markdown.md)
+</Details>
+
+</Details>
 
 
 
@@ -49,11 +55,8 @@ Any grace notes or ornamants of such were also misssing from the transcription
 
 
 
-
-
-
-
-# \[week 4\] 
+<Details>
+<summary>Week 4</summary>
 When Generating a JSymbolic anylsis of my piece, i gained the following information
 
 Range : 60
@@ -69,12 +72,29 @@ Most Common rhythmic value : 0.5
 ![Music21 data analysis](https://github.com/rkirk903/MCA-2024/blob/master/Music21Graph.png) 
 ![Music 21 data analysis 2](https://github.com/rkirk903/MCA-2024/blob/master/ScatterPlot.png)
 
+</Details>
+
+<Details>
+<summary>Week 5</summary>
+
+  
+</Details>
+<Details>
+<summary>Week 6</summary>
+</Details>
+<Details>
+  <summary>Week 7</summary>
+</Details>
+
+<Details>
+  <summary>Week 8</summary>
+</Details>
+
+<Details>
+  <summary>Week 9</summary>
+</Details>
 
 
-
-# week 8 
-
-##task 2 
 
 
 
