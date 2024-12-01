@@ -30,15 +30,17 @@ Similar issues to the musical scores arose within the audio recordings. This inc
 
 See below my edited version of a vioin and piano transcription of the opening section of my chosen piec When uploaded on Musescore there were a number of issues faced. The opening scene was not massively effected, However when the piece moved into more intricate notes and articultionsthis is were many erros ocurred. This ranged from pitch and rhythm of the notes. 
 Within the base line of the piece there was a change of clef which also was not transcribed by the OMR engine. 
-Any grace notes or ornamants of such were aklso muisssing froom the transcription 
+Any grace notes or ornamants of such were also misssing from the transcription 
 
  This can be accessed through the link [here](https://github.com/rkirk903/MCA-2024/blob/master/MusicAnalyticsScore2619532K.mscz) 
+ ![ViolinConcertoScore](https://github.com/rkirk903/MCA-2024/blob/master/MusicAnalyticsScore2619532K-1.png)
+ 
  
 
 
 # \[Week 3\] 
 
-
+[Verevio of Tchaichovsky Violin Concerto](https://github.com/rkirk903/MCA-2024/blob/master/verovio.html)
 
 
 
