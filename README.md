@@ -70,6 +70,19 @@ Most Common rhythmic value : 0.5
 
 >Week 5
 
+
+
+
+
+Week 8 
+
+Task 1 
+
+| Title | Artist | Composer | Copyright Domain | Genre | File audio format | Number of Channels | Sample Rate | Bits per Second | Duration |
+| ------|--------|----------|------------------|-------|-------------------|--------------------|-------------|-----------------|----------|
+|Violin concerto, in D Major , op.35| Isaac Sterns, Philedelphia Orchestra|Tchaikhovsky| Public Domain|Romantic|IMSLP|MP3| 2| 48kHz| |17:29|
+|Swan Lake, Valse| Philedelphia Orchestra |Tchaikhovsky| Public Domain| Romantic| Internet Archive|MP3| 2|44.1kHz| |06:06|
+|Serenade for Strings in C Major | University of Chicago symphony Orchestra|Tchaikovsky|Public Domain|Romantic|Internet Archive|MP3|2||44.1kHz| |10:42|
   
 
 
