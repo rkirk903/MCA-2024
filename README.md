@@ -64,15 +64,27 @@ Any grace notes or ornamants of such were also misssing from the transcription
 
 * Most Common rhythmic value : 0.5
 
-< Task 2 generate a piano roll and pitch histogram of your piece using music21. 
-see below my piano roll generated using music 21 
+> Task 2 generate a piano roll and pitch histogram of your piece using music21.
+
+
+See below my piano roll generated using music 21 :
+
+Piano Roll
+![music21PianoRoll](https://github.com/rkirk903/MCA-2024/blob/master/PianoRollmage.png)
 
 ![Music21 data analysis](https://github.com/rkirk903/MCA-2024/blob/master/Music21Graph.png) 
 ![Music 21 data analysis 2](https://github.com/rkirk903/MCA-2024/blob/master/ScatterPlot.png)
 
 
 # Week 5
-> Task 1 Create a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of your choice. 
+> Task 1 Create a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of your choice.
+
+*Title : Violin Concerto in D major
+-Artist : Tchaikhovsky
++Publisher : P Juregenson 
+*Date : 188
++
+
 
 > Task 2 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities 
 
