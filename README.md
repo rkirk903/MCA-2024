@@ -84,10 +84,10 @@ See below my piano roll generated using music 21 :
 ## Piano Roll
 ![music21PianoRoll](https://github.com/rkirk903/MCA-2024/blob/master/PianoRollmage.png)
 
-## Scatter Plot of Pitches 
+## Pitch Histogram
 ![Music21 data analysis](https://github.com/rkirk903/MCA-2024/blob/master/Music21Graph.png) 
 
-## Pitch Histogram
+## Scatter Plot of Pitches 
 ![Music 21 data analysis 2](https://github.com/rkirk903/MCA-2024/blob/master/ScatterPlot.png)
 
 
