@@ -76,6 +76,8 @@ See my linked [MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3m
 
 * Most Common rhythmic value : 0.5
 
+  This can also be viewed in my attatched CSV [Download here](https://github.com/rkirk903/MCA-2024/blob/master/week4values.csv)
+
 > Task 2 generate a piano roll and pitch histogram of your piece using music21.
 
 
