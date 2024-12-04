@@ -95,10 +95,12 @@ See below my piano roll generated using music 21 :
 > Task 1 Create a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of your choice.
 
 * Title : Violin Concerto in D major
-- Artist : Tchaikhovsky
+- Composer : Tchaikhovsky
 + Publisher : P Juregenson 
-* Date : 188
-+
+* Date : 1888
+- Location : Moscow
+- Opus Number :35
+
 
 
 > Task 2 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities 
