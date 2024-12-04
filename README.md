@@ -107,15 +107,19 @@ See below my piano roll generated using music 21 :
 
 > Task 2 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities
 
+
+
 Download my edited MEI document here [Week 5 MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/Week5Lab.mei)
 
 
 
 # week 7
  > Task 1 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities
-Doiwnload ,y firther edited MEI file [here](https://github.com/rkirk903/MCA-2024/blob/master/data/week7)
+
+Download ,y firther edited MEI file [here](https://github.com/rkirk903/MCA-2024/blob/master/data/week7)
 
  > Task 2 Render your revised MEI metadata along with your score on an HTML page.
+
 See my linked HTML page,[here](https://rkirk903.github.io/MCA-2024/metaRAW.html)
 
 
