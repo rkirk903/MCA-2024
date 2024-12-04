@@ -94,10 +94,10 @@ See below my piano roll generated using music 21 :
 # Week 5
 > Task 1 Create a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of your choice.
 
-*Title : Violin Concerto in D major
--Artist : Tchaikhovsky
-+Publisher : P Juregenson 
-*Date : 188
+* Title : Violin Concerto in D major
+- Artist : Tchaikhovsky
++ Publisher : P Juregenson 
+* Date : 188
 +
 
 
