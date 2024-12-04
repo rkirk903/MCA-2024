@@ -49,10 +49,7 @@ See below my edited version of a violin and piano transcription of the opening s
 
 >Task 1  Export the score you created last week to MusicXML and MEI
 
-See below my linked MusicXML and MEI file 
-
-[MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3musicxml.mei)
-[MusicXML](https://github.com/rkirk903/MCA-2024/blob/master/data/week3musicxml.xml)
+See my linked [MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3musicxml.mei) and [MusicXML](https://github.com/rkirk903/MCA-2024/blob/master/data/week3musicxml.xml)
 
 
 
