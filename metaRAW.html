@@ -15,7 +15,7 @@
         const app = new Verovio.App(document.getElementById("app"), {});
 
     // Load a file (MEI or MusicXML)
-    fetch("week7")
+    fetch("data/week3musicxml-2.mei")
         .then(function(response) {
             return response.text();
         })
@@ -26,7 +26,7 @@
   <script>
     // Get, parse, and show TEI data
     var CETEIcean = new CETEI()
-    CETEIcean.getHTML5("week7", function(data) {
+    CETEIcean.getHTML5("data/week3musicxml-2.mei", function(data) {
       document.getElementById("TEI").appendChild(data)
     })
     // Get, parse and show MEI header data
@@ -36,7 +36,7 @@
         mei: "http://www.music-encoding.org/ns/mei"
       }
     })
-    CETEI4MEI.getHTML5("week7", function(data) {
+    CETEI4MEI.getHTML5("data/week3musicxml-2.mei", function(data) {
       // get header
       var meiHead = data.querySelector('mei-meiHead')
       document.getElementById("MEImeta").appendChild(meiHead)
