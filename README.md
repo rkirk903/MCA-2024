@@ -47,7 +47,11 @@ See below my edited version of a violin and piano transcription of the opening s
  
 # Week 3
 
-[Verevio of Tchaichovsky Violin Concerto](verovio_markdown.md)
+>Task 1  Export the score you created last week to MusicXML and MEI
+
+See below my linked MusicXML and MEI file 
+
+[MusicXML](
 
 
 
