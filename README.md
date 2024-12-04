@@ -51,6 +51,8 @@ See below my edited version of a violin and piano transcription of the opening s
 
 See my linked [MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3musicxml.mei) and [MusicXML](https://github.com/rkirk903/MCA-2024/blob/master/data/week3musicxml.xml)
 
+[link](https://rkirk903.github.io/MCA-2024/verovio.html)
+
 
 
 
