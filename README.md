@@ -105,7 +105,9 @@ See below my piano roll generated using music 21 :
 
 
 
-> Task 2 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities 
+> Task 2 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities
+
+
 
 # week 7
  > Task 1 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities 
