@@ -139,8 +139,7 @@ The three tracks I have schosen are within my theme if orchestral pieces of the 
 > Task 1: Extract features
 
 
-> Task 1: Extract features
-
+> Task 1: Compute and Visualize features with histograms 
 
 
 
