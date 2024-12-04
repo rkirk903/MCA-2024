@@ -119,7 +119,7 @@ See below my piano roll generated using music 21 :
 
 
 > Task 1: Find and describe 3 audio tracks relating to your theme
-The three tracks I have schosen are within my theme if orchestral pieces of the romantic period composed by tchaickovsky. 
+The three tracks I have schosen are within my theme of orchestral pieces of the romantic period composed by tchaickovsky. 
 
 | Title | Artist | Composer | Copyright Domain | Genre | File/audio format | Number of Channels | Sample Rate | Bits per Second | Duration |
 | ------|--------|----------|------------------|-------|-------------------|--------------------|-------------|-----------------|----------|
@@ -129,11 +129,18 @@ The three tracks I have schosen are within my theme if orchestral pieces of the 
 
 > Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer
 
+Below see a portion of my sonic visualiser outpu for my three chosen pieces .
+* TOP: Waveform 
+- BOTTOM: Spectogram
 
+# Violin Concerto in D major. 
 ![waveform and spectogram of concerto](https://github.com/rkirk903/MCA-2024/blob/master/concerto%20week%208%20ss.jpg)
 
+# Swan Lake: Valse
 ![waveform and spectogram of swanlake](https://github.com/rkirk903/MCA-2024/blob/master/valse%20week%208%20.jpg)
 
+
+# Serenade for Strings 
 ![waveform and spectogram of serenade](https://github.com/rkirk903/MCA-2024/blob/master/serenade%20week%208.jpg)
 
 # week 9 
