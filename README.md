@@ -172,6 +172,24 @@ Below see a portion of my sonic visualiser outpu for my three chosen pieces .
 
 > Task 1: Extract features
 
+see below my attached sonic visualiser outputs 
+* TOP: Spectogram
+- MIDDLE: Mel FRequency Cepstral 
++ BOTTOM: Chromogram
+
+
+Violin concerto 
+![CONCERTO SCREENSHOT ](https://github.com/user-attachments/assets/1a4f5239-e4b1-4434-8948-956c61606a32)
+
+Swan Lake Valse 
+![CONCERTO SCREENSHOT ](https://github.com/user-attachments/assets/400b9803-75ee-425d-ae31-01f92fdb4dc9)
+
+Serenade for Strings 
+![CONCERTO SCREENSHOT ](https://github.com/user-attachments/assets/28cf078c-a978-4222-bf98-50686302de6e)
+
+
+
+
 
 > Task 1: Compute and Visualize features with histograms 
 
