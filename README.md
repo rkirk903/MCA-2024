@@ -86,7 +86,9 @@ See my linked [MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3m
 See below my piano roll generated using music 21 :
 
 ## Piano Roll
-![music21PianoRoll](https://github.com/rkirk903/MCA-2024/blob/master/PianoRollmage.png)
+
+![PianoRollmage](https://github.com/user-attachments/assets/a216bca1-7734-4610-9237-66e7d3a6933b)
+
 
 ## Pitch Histogram
 
