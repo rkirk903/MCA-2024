@@ -182,10 +182,12 @@ Violin concerto
 ![CONCERTO SCREENSHOT ](https://github.com/user-attachments/assets/1a4f5239-e4b1-4434-8948-956c61606a32)
 
 Swan Lake Valse 
-![CONCERTO SCREENSHOT ](https://github.com/user-attachments/assets/400b9803-75ee-425d-ae31-01f92fdb4dc9)
+![VALSE SCREENSHOT ](https://github.com/user-attachments/assets/4de96f58-7cda-4910-b9b6-e6694f54a356)
+
 
 Serenade for Strings 
-![CONCERTO SCREENSHOT ](https://github.com/user-attachments/assets/28cf078c-a978-4222-bf98-50686302de6e)
+![SERENADE SCREENSHOT ](https://github.com/user-attachments/assets/3e455943-d5e3-4a84-b1b2-57b950f93eba)
+
 
 
 
