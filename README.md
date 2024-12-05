@@ -9,14 +9,15 @@
 
 The theme i have chosen for my data set will focus around the composer of Tchaichovsky within the Romantic Period. With a particular focus on the first movement of Tchaickovsky's violin concerto in D major.
 
-  ### Musical Scores
+### Musical Scores
   
   The sheet music for this piece can be found on many sheet music platforms. For the full orchestral score this can be found on IMSLP. Here there are mnay different versions of the score uploaded by different users. These scores range in levels of quality. The violin and piano score can be found on a range of different websites including Musescore and Free violin sheet music. Hence this Piece's sheet music is extremely accessible and free. The physical copy of the sheet music can also be purchased on many popular music sheet music sites such as music room.
   
- ### Audio Recording 
+### Audio Recording 
  
  As it is such a well known piece the audio recording is available on most streaming platforms including spotify and Youtube. There are many different versions of an audio recording. THe audio file can be downloaded also from IMSLP. On IMSLP multiple different MP3 files can be downloaded. these recordings range from recordings on the full piece and also the option to download the individual movement. 
- ### Metadata and Descriptive data
+
+### Metadata and Descriptive data
  For descriptive and metadata, IMSLP does include different forms of metadata in the general information Section. Deoendant on the Arrangement, Composer, Arrranger, publisher info, opus number, number of movements, date of composition, average duration,and composer time period and style> 
 
  >Task 3 Challenges Working With Music and Music Related Data Within My Chosen Project
