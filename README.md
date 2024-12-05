@@ -42,7 +42,8 @@ See below my edited version of a violin and piano transcription of the opening s
  
  ### Example of my edited transcription
  
- ![ViolinConcertoScore](https://github.com/rkirk903/MCA-2024/blob/master/MusicAnalyticsScore2619532K-1.png)
+![MusicAnalyticsScore2619532K-1](https://github.com/user-attachments/assets/1a3746b0-9073-44dd-8e0c-62b892b0f0c4)
+
  
  
 # Week 3
@@ -87,10 +88,14 @@ See below my piano roll generated using music 21 :
 ![music21PianoRoll](https://github.com/rkirk903/MCA-2024/blob/master/PianoRollmage.png)
 
 ## Pitch Histogram
-![Music21 data analysis](https://github.com/rkirk903/MCA-2024/blob/master/Music21Graph.png) 
+
+![Music21Graph](https://github.com/user-attachments/assets/6316fcca-2ad1-4f39-8a06-f2ad0d76d0e2)
+
 
 ## Scatter Plot of Pitches 
-![Music 21 data analysis 2](https://github.com/rkirk903/MCA-2024/blob/master/ScatterPlot.png)
+
+![ScatterPlot-2](https://github.com/user-attachments/assets/aa1a1634-95fc-4c92-b84b-89dc2599a6ad)
+
 
 
 # Week 5
@@ -116,7 +121,7 @@ Download my edited MEI document here [Week 5 MEI](https://github.com/rkirk903/MC
 # week 7
  > Task 1 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities
 
-Download ,y firther edited MEI file [here](https://github.com/rkirk903/MCA-2024/blob/master/data/week7)
+Download yy further edited MEI file [here](https://github.com/rkirk903/MCA-2024/blob/master/data/week7)
 
  > Task 2 Render your revised MEI metadata along with your score on an HTML page.
 
@@ -146,14 +151,19 @@ Below see a portion of my sonic visualiser outpu for my three chosen pieces .
 - BOTTOM: Spectogram
 
 # Violin Concerto in D major. 
-![waveform and spectogram of concerto](https://github.com/rkirk903/MCA-2024/blob/master/concerto%20week%208%20ss.jpg)
+![concerto week 8 ss](https://github.com/user-attachments/assets/1dded657-5278-4555-8698-974c8b504bd1)
+
 
 # Swan Lake: Valse
-![waveform and spectogram of swanlake](https://github.com/rkirk903/MCA-2024/blob/master/valse%20week%208%20.jpg)
+
+![valse week 8 ](https://github.com/user-attachments/assets/8b9502eb-fb9f-4d07-86d2-177b83b380cc)
+
 
 
 # Serenade for Strings 
-![waveform and spectogram of serenade](https://github.com/rkirk903/MCA-2024/blob/master/serenade%20week%208.jpg)
+
+![serenade week 8](https://github.com/user-attachments/assets/c853dcfd-609c-4984-bf0e-3a861d9f54d4)
+
 
 # week 9 
 
