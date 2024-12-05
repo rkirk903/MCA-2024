@@ -200,6 +200,41 @@ see below my attached sonic visualiser outputs
 
 
 
+> highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks
+
+
+# Week 10 
+
+>Task 1: Similarity
+
+![week9picture 1 ](https://github.com/user-attachments/assets/c5ed630e-ae76-4f4f-aa1e-61000f709f4f)
+![week9Picture2](https://github.com/user-attachments/assets/b2a313bf-1a9a-46af-8635-73fdb3992053)
+![classical](https://github.com/user-attachments/assets/b18a1a64-b06a-4350-b11c-4dfd7b5f3521)
+
+
+
+>Task 2: Transcription 
+
+## My Transcription Before:
+
+![week10before-1](https://github.com/user-attachments/assets/179994a2-6e3d-4873-9af7-a7f9b0e2f37e)
+![week10before-2](https://github.com/user-attachments/assets/defc1613-a8c8-4d8e-b4a0-9c41bcaf01b1)
+![week10before-3](https://github.com/user-attachments/assets/5094725a-9926-461b-9058-f457bd91af74)
+
+## My Transcription After:
+
+
+![Week10after-1](https://github.com/user-attachments/assets/b1108e3e-c4b8-4c53-a2ef-01bd421ea224)
+![Week10after-2](https://github.com/user-attachments/assets/38cdc4c1-5663-4a5e-bdc6-eb0db894d244)
+
+
+
+
+
+
+
+
+
 
 
 
