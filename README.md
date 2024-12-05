@@ -193,8 +193,9 @@ see below my attached sonic visualiser outputs
 
 
 
-> Task 1: Compute and Visualize features with histograms 
+> Task 1: Compute and Visualize features with histograms
 
+<img width="1131" alt="week 9" src="https://github.com/user-attachments/assets/8b124e27-543e-457a-9a72-1eded37ec2ec">
 
 
 
