@@ -41,7 +41,7 @@ See below my edited version of a violin and piano transcription of the opening s
 
  This can be accessed through the link [here](https://github.com/rkirk903/MCA-2024/blob/master/MusicAnalyticsScore2619532K.mscz) 
  
- ### Example of my edited transcription
+## Example of my edited transcription
  
 ![MusicAnalyticsScore2619532K-1](https://github.com/user-attachments/assets/1a3746b0-9073-44dd-8e0c-62b892b0f0c4)
 
@@ -121,7 +121,7 @@ Download my edited MEI document here [Week 5 MEI](https://github.com/rkirk903/MC
 
 
 
-# week 7
+# Week 7
  > Task 1 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities
 
 Download yy further edited MEI file [here](https://github.com/rkirk903/MCA-2024/blob/master/data/week7)
@@ -153,22 +153,22 @@ Below see a portion of my sonic visualiser outpu for my three chosen pieces .
 * TOP: Waveform 
 - BOTTOM: Spectogram
 
-# Violin Concerto in D major. 
+## Violin Concerto in D major. 
 ![concerto week 8 ss](https://github.com/user-attachments/assets/1dded657-5278-4555-8698-974c8b504bd1)
 
 
-# Swan Lake: Valse
+## Swan Lake: Valse
 
 ![valse week 8 ](https://github.com/user-attachments/assets/8b9502eb-fb9f-4d07-86d2-177b83b380cc)
 
 
 
-# Serenade for Strings 
+## Serenade for Strings 
 
 ![serenade week 8](https://github.com/user-attachments/assets/c853dcfd-609c-4984-bf0e-3a861d9f54d4)
 
 
-# week 9 
+# Week 9 
 
 > Task 1: Extract features
 
