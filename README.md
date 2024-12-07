@@ -130,6 +130,14 @@ Download yy further edited MEI file [here](https://github.com/rkirk903/MCA-2024/
 
 See my linked HTML page,[here](https://rkirk903.github.io/MCA-2024/metaRAW.html)
 
+> discuss why you have made the choices you made.
+
+* My chosen piece of music is within the public domain and so all transcriptions should remain in the public domain for the fair use of anyone , It is in the public domain as Tchaikovsky - the composer- has been dead for longer that 50 years. The use of this piece is only for the use of this project for educational and research purposes.
+
+- I classified the genre under classical and Romantic, as I believe these genres accurately describe the music and that people looking for this piece would use those key words in their search.
+
+
+
 
 
 
