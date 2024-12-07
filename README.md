@@ -151,9 +151,9 @@ See my linked HTML page,[here](https://rkirk903.github.io/MCA-2024/metaRAW.html)
 > Task 1: Find and describe 3 audio tracks relating to your theme
 The three tracks I have schosen are within my theme of orchestral pieces of the romantic period composed by tchaickovsky. 
 
-| Title | Artist | Composer | Copyright Domain | Genre | File/audio format | Number of Channels | Sample Rate | Bits per Second | Duration |
-| ------|--------|----------|------------------|-------|-------------------|--------------------|-------------|-----------------|----------|
-|Violin concerto, in D Major , op.35| Isaac Sterns, Philedelphia Orchestra|Tchaikhovsky| Public Domain|Romantic|IMSLP|MP3| 2| 48kHz|219 kbps|17:29|
+| Title | Artist | Composer | Copyright Domain | Genre | Source | File/audio format | Number of Channels | Sample Rate | Bits per Second | Duration |
+| ------|--------|----------|------------------|-------|---------|----------|--------------------|-------------|-----------------|----------|
+|Violin concerto, in D Major , op.35| Isaac Sterns, Philedelphia Orchestra|Tchaikhovsky| Public Domain|Romantic| IMSLP |MP3|2 |48kHz|219 kbps|17:29|
 |Swan Lake, Valse| Philedelphia Orchestra |Tchaikhovsky| Public Domain| Romantic| Internet Archive|MP3| 2|44.1kHz|198kbps|06:06|
 |Serenade for Strings in C Major | University of Chicago symphony Orchestra|Tchaikovsky|Public Domain|Romantic|Internet Archive|MP3|2|44.1kHz|213kbps|10:42|
 
@@ -227,7 +227,10 @@ Above I have plotted the histograms of the chorograms for each of my three piece
 
 # Week 10 
 
+
 >Task 1: Similarity
+
+Below see my visualisations from the computations of my similarity matrix. This is a similarity matrix between 7 sample tracks and then my three previous chosen tracks. Tracks 0 to 3 were classical and then tracks 4 to 6 were country and then my chosen tracks were tracks 7(Violin Concerto), 8(Valse) and 9(Serenade for Strings). However as my chosen songs were classical this meant tracks 0-3 and 7-9 were identified as being quite similar 
 
 ![week9picture 1 ](https://github.com/user-attachments/assets/c5ed630e-ae76-4f4f-aa1e-61000f709f4f)
 ![week9Picture2](https://github.com/user-attachments/assets/b2a313bf-1a9a-46af-8635-73fdb3992053)
