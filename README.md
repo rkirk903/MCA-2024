@@ -176,6 +176,15 @@ Below see a portion of my sonic visualiser outpu for my three chosen pieces .
 ![serenade week 8](https://github.com/user-attachments/assets/c853dcfd-609c-4984-bf0e-3a861d9f54d4)
 
 
+> In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step 1.
+
+
+One advantage on time frequency analysis over waveform-based analysis is that time- frequency analysis outputs and displays more ranges of information about the audio. The time-based frequency analysis shows areas of more intensity within the music and an overall outlook of the whole piece. While a waveform-based analysis only displays amplitude and volume, time frequency analysis shows the frequency and length and patterns of certain sound/pitch. This allows also for the movement and volumes of instruments to be identified, while this cannot be made out in a waveform-based analysis. 
+To link this back to the outputs of my audio you can see the amount of orange sections is significantly less on the first two pieces compared to Serenade for Strings (bottom picture) This is due to the more intensity in volume pitch and instruments compared to that of the concerto. the Serenade in Strings which contains very clear chord changes, we can clearly see this in the spectrogram with the placement of the orange sections towards the bottom and the length and height of the colour, also the patterns of pitch rising and falling across the different instruments and how this changes across the piece, which is one of the main advantages of a time-frequency analysis over a waveform based one.
+
+
+
+
 # Week 9 
 
 > Task 1: Extract features
