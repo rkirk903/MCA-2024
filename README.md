@@ -18,20 +18,19 @@ The theme i have chosen for my data set will focus around the composer of Tchaic
  As it is such a well known piece the audio recording is available on most streaming platforms including spotify and Youtube. There are many different versions of an audio recording. THe audio file can be downloaded also from IMSLP. On IMSLP multiple different MP3 files can be downloaded. these recordings range from recordings on the full piece and also the option to download the individual movement. 
 
 ### Metadata and Descriptive data
- For descriptive and metadata, IMSLP does include different forms of metadata in the general information Section. Deoendant on the Arrangement, Composer, Arrranger, publisher info, opus number, number of movements, date of composition, average duration,and composer time period and style> 
+ For descriptive and metadata, IMSLP does include different forms of metadata in the general information Section. Dependant on the Arrangement, Composer, Arrranger, publisher info, opus number, number of movements, date of composition, average duration,and composer time period and style. However information regarding this piece can be sourced from many website and sources. 
 
  >**Task 3: Challenges Working With Music and Music Related Data Within My Chosen Project**
 
 ### Musical Scores 
-Diffuculties that arose within the musical scores came within the qualities or these scores. IMSLP offer many different verions of scores, these come in the form of scanned by users of IMSLP. Hence only scans of original manuscripts are available, and only available in PDF form.
+Diffuculties that arose within the musical scores came within the qualities of these scores. IMSLP offer many different verions of scores, these come in the form of scanned by users of IMSLP. Within the collection of scores within imslp many ranged in how they were uploaded, some where scannded in just the musical notes so appeared on a white background and qwewre clear to see, however some where scanned from original scores so on off-white coloured backrounds, this leads to many of the notes being hard to ideantify. Only scans of original manuscripts are available, and only available in PDF form with no availabity of music software notated sheet music. 
 
 ### Audio Recording 
-Similar issues to the musical scores arose within the audio recordings. This included again a range of quality in the recordings 
-
+Similar issues to the musical scores arose within the audio recordings. This included again a range of quality in the recordings with all including noises that distort the sound of the music audio, by miscellaneous recording noises such as crackling.
 
 ### Descrptive Data 
- Issues that arose from this data is that the imformation accuracy reakly depended on on the arrangement and version,. for example the full orchestral one or it has also been arranged for piano, which would change some of the provided descriptive data 
- </Details>
+ Issues that arose from this data is that the imformation accuracy depended on the arrangement and the version. For example the full orchestral one or it has also been arranged for piano, which would change some of the provided descriptive data. This is due to the mostly lack of standardisation within music meta data accross different musical forms, for example different technical meta data is different from physical music forms such as a CDs and vinyls compared to digital files.
+
 
 
 
@@ -43,7 +42,8 @@ See below my edited version of a violin and piano transcription of the opening s
  
 ## Example of my edited transcription
  
-![MusicAnalyticsScore2619532K-1](https://github.com/user-attachments/assets/1a3746b0-9073-44dd-8e0c-62b892b0f0c4)
+<img src="https://github.com/user-attachments/assets/1a3746b0-9073-44dd-8e0c-62b892b0f0c4" alt="Piano Roll" width="400" height="500">
+
 
  
  
@@ -91,18 +91,21 @@ See below my piano roll generated using music 21 :
 
 ## Piano Roll
 
-![PianoRollmage](https://github.com/user-attachments/assets/a216bca1-7734-4610-9237-66e7d3a6933b)
+
+<img src="https://github.com/user-attachments/assets/a216bca1-7734-4610-9237-66e7d3a6933b" alt="Piano Roll" width="500" height="400">
 
 
 
 ## Pitch Histogram
 
-![Music21Graph](https://github.com/user-attachments/assets/6316fcca-2ad1-4f39-8a06-f2ad0d76d0e2)
+
+<img src="https://github.com/user-attachments/assets/6316fcca-2ad1-4f39-8a06-f2ad0d76d0e2" alt="histogram" width="500" height="500">
 
 
 ## Scatter Plot of Pitches 
 
-![ScatterPlot-2](https://github.com/user-attachments/assets/aa1a1634-95fc-4c92-b84b-89dc2599a6ad)
+
+<img src="https://github.com/user-attachments/assets/aa1a1634-95fc-4c92-b84b-89dc2599a6ad" alt="scatter plot" width="500" height="500">
 
 
 
@@ -253,16 +256,12 @@ Below see my visualisations from the computations of my similarity matrix. This 
 > **Task 2: Transcription** 
 
 ## My Transcription Before:
-
-![week10before-1](https://github.com/user-attachments/assets/179994a2-6e3d-4873-9af7-a7f9b0e2f37e)
-![week10before-2](https://github.com/user-attachments/assets/defc1613-a8c8-4d8e-b4a0-9c41bcaf01b1)
-![week10before-3](https://github.com/user-attachments/assets/5094725a-9926-461b-9058-f457bd91af74)
+<img src="https://github.com/user-attachments/assets/179994a2-6e3d-4873-9af7-a7f9b0e2f37e" alt="Piano Roll" width="300" height="400"><img src="https://github.com/user-attachments/assets/defc1613-a8c8-4d8e-b4a0-9c41bcaf01b1" alt="Piano Roll" width="300" height="400"><img src="https://github.com/user-attachments/assets/5094725a-9926-461b-9058-f457bd91af74" alt="Piano Roll" width="300" height="400">
 
 ## My Transcription After:
 
+<img src="https://github.com/user-attachments/assets/b1108e3e-c4b8-4c53-a2ef-01bd421ea224" alt="Piano Roll" width="300" height="400"><img src="https://github.com/user-attachments/assets/b1108e3e-c4b8-4c53-a2ef-01bd421ea224" alt="Piano Roll" width="300" height="400">
 
-![Week10after-1](https://github.com/user-attachments/assets/b1108e3e-c4b8-4c53-a2ef-01bd421ea224)
-![Week10after-2](https://github.com/user-attachments/assets/38cdc4c1-5663-4a5e-bdc6-eb0db894d244)
 
 
 
