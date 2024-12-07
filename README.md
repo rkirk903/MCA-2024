@@ -58,7 +58,7 @@ See my linked [MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3m
 
 [Link To My Verovio Webpage](https://rkirk903.github.io/MCA-2024/verovio.html)
 
-<iframe src="https://rkirk903.github.io/MCA-2024/verovio.html" width="600" height="400"></iframe>
+<iframe src="https://rkirk903.github.io/MCA-2024/verovio.html" width="1000" height="800"></iframe>
 
 
 
