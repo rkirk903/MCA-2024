@@ -232,8 +232,12 @@ Above I have plotted the histograms of the chorograms for each of my three piece
 
 Below see my visualisations from the computations of my similarity matrix. This is a similarity matrix between 7 sample tracks and then my three previous chosen tracks. Tracks 0 to 3 were classical and then tracks 4 to 6 were country and then my chosen tracks were tracks 7(Violin Concerto), 8(Valse) and 9(Serenade for Strings). However as my chosen songs were classical this meant tracks 0-3 and 7-9 were identified as being quite similar 
 
+## Similarity Matrices Left: C's & A's Right : All notes 
 ![week9picture 1 ](https://github.com/user-attachments/assets/c5ed630e-ae76-4f4f-aa1e-61000f709f4f)
 ![week9Picture2](https://github.com/user-attachments/assets/b2a313bf-1a9a-46af-8635-73fdb3992053)
+
+## Visualiser of the tracks in 2D 
+
 ![classical](https://github.com/user-attachments/assets/b18a1a64-b06a-4350-b11c-4dfd7b5f3521)
 
 
