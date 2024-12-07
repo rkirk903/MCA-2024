@@ -84,7 +84,7 @@ See my linked [MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3m
 
   This can also be viewed in my attatched CSV [Download here](https://github.com/rkirk903/MCA-2024/blob/master/week4values.csv)
 
-> **Task 2: generate a piano roll and pitch histogram of your piece using music21.**
+> **Task 2: Generate a piano roll and pitch histogram of your piece using music21.**
 
 
 See below my piano roll generated using music 21 :
