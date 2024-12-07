@@ -130,6 +130,8 @@ Download yy further edited MEI file [here](https://github.com/rkirk903/MCA-2024/
 
 See my linked HTML page,[here](https://rkirk903.github.io/MCA-2024/metaRAW.html)
 
+[View HTML File](https://rkirk903.github.io/MCA-2024/metaRAW.html))
+
 > discuss why you have made the choices you made.
 
 * My chosen piece of music is within the public domain and so all transcriptions should remain in the public domain for the fair use of anyone , It is in the public domain as Tchaikovsky - the composer- has been dead for longer that 50 years. The use of this piece is only for the use of this project for educational and research purposes.
@@ -151,9 +153,9 @@ The three tracks I have schosen are within my theme of orchestral pieces of the 
 
 | Title | Artist | Composer | Copyright Domain | Genre | File/audio format | Number of Channels | Sample Rate | Bits per Second | Duration |
 | ------|--------|----------|------------------|-------|-------------------|--------------------|-------------|-----------------|----------|
-|Violin concerto, in D Major , op.35| Isaac Sterns, Philedelphia Orchestra|Tchaikhovsky| Public Domain|Romantic|IMSLP|MP3| 2| 48kHz|?|17:29|
-|Swan Lake, Valse| Philedelphia Orchestra |Tchaikhovsky| Public Domain| Romantic| Internet Archive|MP3| 2|44.1kHz| ?|06:06|
-|Serenade for Strings in C Major | University of Chicago symphony Orchestra|Tchaikovsky|Public Domain|Romantic|Internet Archive|MP3|2|44.1kHz|?|10:42|
+|Violin concerto, in D Major , op.35| Isaac Sterns, Philedelphia Orchestra|Tchaikhovsky| Public Domain|Romantic|IMSLP|MP3| 2| 48kHz|219 kbps|17:29|
+|Swan Lake, Valse| Philedelphia Orchestra |Tchaikhovsky| Public Domain| Romantic| Internet Archive|MP3| 2|44.1kHz|198kbps|06:06|
+|Serenade for Strings in C Major | University of Chicago symphony Orchestra|Tchaikovsky|Public Domain|Romantic|Internet Archive|MP3|2|44.1kHz|213kbps|10:42|
 
 > Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer
 
@@ -217,7 +219,10 @@ see below my attached sonic visualiser outputs
 
 
 
-> highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks
+> Highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks
+
+Above I have plotted the histograms of the chorograms for each of my three pieces. On analysis of the three graphs, the histograms have not captured striking differences overall between the three tracks, however differences are still present. Broadly looking at them the Serenade for Strings has on average has a bigger range and more intensity of pitches throughout, compared to the violin concerto. The peaks of the histograms on the violin concerto are generally shorter and span across less pitches, this suggests there is possible many repeated motifs and melodies across the piece. This can be expected based on listening to the two tracks. However, this could also to of with quality of the recording. The quality of the Serenade for Strings and the Swan Lake was much than that of the Violin Concerto, hence sonic visualiser would maybe not be able to pick up on as many pitches and other musical information as the other two. However by the results of the chromogram before listening ,based on these results you can assume that all three pieces may have a slight similar sounds (genre) in terms of pitch and the general intensity and sound of the piece – instruments and melody .
+
 
 
 # Week 10 
