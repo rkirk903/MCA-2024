@@ -1,10 +1,10 @@
-# Music Analytics and Curation Portfolio
+# Music Analytics and Curation Portfolio 2619532
 
 
 #  Week 1    
 
 
->Task 1: Identify a theme for your dataset
+>**Task 1: Identify a theme for your dataset**
 
 
 The theme i have chosen for my data set will focus around the composer of Tchaichovsky within the Romantic Period. With a particular focus on the first movement of Tchaickovsky's violin concerto in D major.
@@ -20,7 +20,7 @@ The theme i have chosen for my data set will focus around the composer of Tchaic
 ### Metadata and Descriptive data
  For descriptive and metadata, IMSLP does include different forms of metadata in the general information Section. Deoendant on the Arrangement, Composer, Arrranger, publisher info, opus number, number of movements, date of composition, average duration,and composer time period and style> 
 
- >Task 3 Challenges Working With Music and Music Related Data Within My Chosen Project
+ >**Task 3: Challenges Working With Music and Music Related Data Within My Chosen Project**
 
 ### Musical Scores 
 Diffuculties that arose within the musical scores came within the qualities or these scores. IMSLP offer many different verions of scores, these come in the form of scanned by users of IMSLP. Hence only scans of original manuscripts are available, and only available in PDF form.
@@ -49,14 +49,18 @@ See below my edited version of a violin and piano transcription of the opening s
  
 # Week 3
 
->Task 1  Export the score you created last week to MusicXML and MEI
+>**Task 1:  Export the score you created last week to MusicXML and MEI**
 
 See my linked [MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3musicxml.mei) and [MusicXML](https://github.com/rkirk903/MCA-2024/blob/master/data/week3musicxml.xml)
 
->Task 2:render your MEI file using Verovio in GitHub.
+> **Task 2: Render your MEI file using Verovio in GitHub.**
 
 
 [Link To My Verovio Webpage](https://rkirk903.github.io/MCA-2024/verovio.html)
+
+<iframe src="https://rkirk903.github.io/MCA-2024/verovio.html" width="600" height="400"></iframe>
+
+
 
 
 
@@ -66,7 +70,7 @@ See my linked [MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3m
 
 
 # Week 4
-> Task 1: Generate a jSymbolic analysis of your piece (Remember, jSymbolic is located in the directory:  C:\Program Files\Jsymbolic)When Generating a JSymbolic anylsis of my piece, i gained the following information
+> **Task 1: Generate a jSymbolic analysis of your piece (Remember, jSymbolic is located in the directory:  C:\Program Files\Jsymbolic)When Generating a JSymbolic anylsis of my piece, i gained the following information**
 
 - Range : 60
 
@@ -80,7 +84,7 @@ See my linked [MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3m
 
   This can also be viewed in my attatched CSV [Download here](https://github.com/rkirk903/MCA-2024/blob/master/week4values.csv)
 
-> Task 2 generate a piano roll and pitch histogram of your piece using music21.
+> **Task 2: generate a piano roll and pitch histogram of your piece using music21.**
 
 
 See below my piano roll generated using music 21 :
@@ -102,7 +106,7 @@ See below my piano roll generated using music 21 :
 
 
 # Week 5
-> Task 1 Create a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of your choice.
+> **Task 1: Create a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of your choice.**
 
 * Title : Violin Concerto in D major
 - Composer : Tchaikhovsky
@@ -113,7 +117,7 @@ See below my piano roll generated using music 21 :
 
 
 
-> Task 2 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities
+> **Task 2: Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities**
 
 
 
@@ -122,17 +126,17 @@ Download my edited MEI document here [Week 5 MEI](https://github.com/rkirk903/MC
 
 
 # Week 7
- > Task 1 Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities
+ > **Task 1: Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities**
 
 Download yy further edited MEI file [here](https://github.com/rkirk903/MCA-2024/blob/master/data/week7)
 
- > Task 2 Render your revised MEI metadata along with your score on an HTML page.
+ > **Task 2: Render your revised MEI metadata along with your score on an HTML page.**
 
 See my linked HTML page,[here](https://rkirk903.github.io/MCA-2024/metaRAW.html)
 
 [View HTML File](https://rkirk903.github.io/MCA-2024/metaRAW.html))
 
-> discuss why you have made the choices you made.
+> **Discuss why you have made the choices you made.**
 
 * My chosen piece of music is within the public domain and so all transcriptions should remain in the public domain for the fair use of anyone , It is in the public domain as Tchaikovsky - the composer- has been dead for longer that 50 years. The use of this piece is only for the use of this project for educational and research purposes.
 
@@ -148,7 +152,7 @@ See my linked HTML page,[here](https://rkirk903.github.io/MCA-2024/metaRAW.html)
 
 
 
-> Task 1: Find and describe 3 audio tracks relating to your theme
+> **Task 1: Find and describe 3 audio tracks relating to your theme**
 The three tracks I have schosen are within my theme of orchestral pieces of the romantic period composed by tchaickovsky. 
 
 | Title | Artist | Composer | Copyright Domain | Genre | Source | File/audio format | Number of Channels | Sample Rate | Bits per Second | Duration |
@@ -157,7 +161,7 @@ The three tracks I have schosen are within my theme of orchestral pieces of the 
 |Swan Lake, Valse| Philedelphia Orchestra |Tchaikhovsky| Public Domain| Romantic| Internet Archive|MP3| 2|44.1kHz|198kbps|06:06|
 |Serenade for Strings in C Major | University of Chicago symphony Orchestra|Tchaikovsky|Public Domain|Romantic|Internet Archive|MP3|2|44.1kHz|213kbps|10:42|
 
-> Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer
+> **Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
 
 Below see a portion of my sonic visualiser outpu for my three chosen pieces .
 * TOP: Waveform 
@@ -178,7 +182,7 @@ Below see a portion of my sonic visualiser outpu for my three chosen pieces .
 ![serenade week 8](https://github.com/user-attachments/assets/c853dcfd-609c-4984-bf0e-3a861d9f54d4)
 
 
-> In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step 1.
+> **In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step 1.**
 
 
 One advantage on time frequency analysis over waveform-based analysis is that time- frequency analysis outputs and displays more ranges of information about the audio. The time-based frequency analysis shows areas of more intensity within the music and an overall outlook of the whole piece. While a waveform-based analysis only displays amplitude and volume, time frequency analysis shows the frequency and length and patterns of certain sound/pitch. This allows also for the movement and volumes of instruments to be identified, while this cannot be made out in a waveform-based analysis. 
@@ -189,7 +193,7 @@ To link this back to the outputs of my audio you can see the amount of orange se
 
 # Week 9 
 
-> Task 1: Extract features
+> **Task 1: Extract features**
 
 see below my attached sonic visualiser outputs 
 * TOP: Spectogram
@@ -212,14 +216,14 @@ see below my attached sonic visualiser outputs
 
 
 
-> Task 2: Compute and Visualize features with histograms
+> **Task 2: Compute and Visualize features with histograms**
 
 <img width="1131" alt="week 9" src="https://github.com/user-attachments/assets/8b124e27-543e-457a-9a72-1eded37ec2ec">
 
 
 
 
-> Highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks
+> **Highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks**
 
 Above I have plotted the histograms of the chorograms for each of my three pieces. On analysis of the three graphs, the histograms have not captured striking differences overall between the three tracks, however differences are still present. Broadly looking at them the Serenade for Strings has on average has a bigger range and more intensity of pitches throughout, compared to the violin concerto. The peaks of the histograms on the violin concerto are generally shorter and span across less pitches, this suggests there is possible many repeated motifs and melodies across the piece. This can be expected based on listening to the two tracks. However, this could also to of with quality of the recording. The quality of the Serenade for Strings and the Swan Lake was much than that of the Violin Concerto, hence sonic visualiser would maybe not be able to pick up on as many pitches and other musical information as the other two. However by the results of the chromogram before listening ,based on these results you can assume that all three pieces may have a slight similar sounds (genre) in terms of pitch and the general intensity and sound of the piece – instruments and melody .
 
@@ -228,7 +232,7 @@ Above I have plotted the histograms of the chorograms for each of my three piece
 # Week 10 
 
 
->Task 1: Similarity
+>**Task 1: Similarity**
 
 Below see my visualisations from the computations of my similarity matrix. This is a similarity matrix between 7 sample tracks and then my three previous chosen tracks. Tracks 0 to 3 were classical and then tracks 4 to 6 were country and then my chosen tracks were tracks 7(Violin Concerto), 8(Valse) and 9(Serenade for Strings). However as my chosen songs were classical this meant tracks 0-3 and 7-9 were identified as being quite similar 
 
@@ -242,7 +246,7 @@ Below see my visualisations from the computations of my similarity matrix. This 
 
 
 
->Task 2: Transcription 
+> **Task 2: Transcription** 
 
 ## My Transcription Before:
 
