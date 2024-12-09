@@ -4,7 +4,7 @@
 #  Week 1    
 
 
->**Task 1: Identify a theme for your dataset**
+>**Task 2: Identify a theme for your dataset**
 
 
 The theme i have chosen for my data set will focus around the composer of Tchaichovsky within the Romantic Period. With a particular focus on the first movement of Tchaickovsky's violin concerto in D major.
@@ -164,7 +164,7 @@ See my linked HTML page,[here](https://rkirk903.github.io/MCA-2024/metaRAW.html)
 
 
 > **Task 1: Find and describe 3 audio tracks relating to your theme**
-The three tracks I have schosen are within my theme of orchestral pieces of the romantic period composed by tchaickovsky. 
+The three tracks I have chosen are within my theme of orchestral pieces of the romantic period composed by tchaickovsky. See Table Below of the technical and non technical meta data of each recording: 
 
 | Title | Artist | Composer | Copyright Domain | Genre | Source | File/audio format | Number of Channels | Sample Rate | Bits per Second | Duration |
 | ------|--------|----------|------------------|-------|---------|----------|--------------------|-------------|-----------------|----------|
@@ -205,6 +205,8 @@ To link this back to the outputs of my audio you can see the amount of orange se
 # Week 9 
 
 > **Task 1: Extract features**
+
+In week 9s task i imported my three previously chosen recordings into sonic visualise. I then used sonic visualiser to create a spectogram, Mel Frequency cepstral Coefficiantrs and a Chromogram. See these displayed below.
 
 see below my attached sonic visualiser outputs 
 * **TOP**: Spectogram
@@ -259,6 +261,7 @@ Below see my visualisations from the computations of my similarity matrix. This 
 
 > **Task 2: Transcription** 
 
+In this task i exported the WAV file from my original transcription from week 2 and imported it into Sonic Visualiser. Using sonic visualiser i created a polyphonic transcription. This allowed me to export this out of sonic visualiser and back into MuseScore as an example of a transcription of audio to notation transcription. Below i have attached my before trancription and then the transcription after
 ## My Transcription Before:
 <img src="https://github.com/user-attachments/assets/179994a2-6e3d-4873-9af7-a7f9b0e2f37e" alt="Piano Roll" width="300" height="400"><img src="https://github.com/user-attachments/assets/defc1613-a8c8-4d8e-b4a0-9c41bcaf01b1" alt="Piano Roll" width="300" height="400"><img src="https://github.com/user-attachments/assets/5094725a-9926-461b-9058-f457bd91af74" alt="Piano Roll" width="300" height="400">
 
