@@ -11,11 +11,11 @@ The theme i have chosen for my data set will focus around the composer of Tchaic
 
 ### Musical Scores
   
-  The sheet music for this piece can be found on many sheet music platforms. For the full orchestral score this can be found on IMSLP. Here there are mnay different versions of the score uploaded by different users. These scores range in levels of quality. The violin and piano score can be found on a range of different websites including Musescore and Free violin sheet music. Hence this Piece's sheet music is extremely accessible and free. The physical copy of the sheet music can also be purchased on many popular music sheet music sites such as music room.
+  The sheet music for this piece can be found on many sheet music platforms. For the full orchestral score this can be found on IMSLP. Here there are mnay different versions of the score uploaded by different users. These scores range in levels of quality. The violin and piano score can be found on a range of different websites including MuseScore and Free violin sheet music. Hence this Piece's sheet music is extremely accessible and free. The physical copy of the sheet music can also be purchased on many popular music sheet music sites such as Music Room.
   
 ### Audio Recording 
  
- As it is such a well known piece the audio recording is available on most streaming platforms including spotify and Youtube. There are many different versions of an audio recording. THe audio file can be downloaded also from IMSLP. On IMSLP multiple different MP3 files can be downloaded. these recordings range from recordings on the full piece and also the option to download the individual movement. 
+ As it is such a well known piece the audio recording is available on most streaming platforms including Spotify and Youtube. There are many different versions of an audio recording. The audio file can be downloaded also from IMSLP. On IMSLP multiple different MP3 files can be downloaded. these recordings range from recordings on the full piece and also the option to download the individual movement. 
 
 ### Metadata and Descriptive data
  For descriptive and metadata, IMSLP does include different forms of metadata in the general information Section. Dependant on the Arrangement, Composer, Arrranger, publisher info, opus number, number of movements, date of composition, average duration,and composer time period and style. However information regarding this piece can be sourced from many website and sources. 
@@ -23,7 +23,7 @@ The theme i have chosen for my data set will focus around the composer of Tchaic
  >**Task 3: Challenges Working With Music and Music Related Data Within My Chosen Project**
 
 ### Musical Scores 
-Diffuculties that arose within the musical scores came within the qualities of these scores. IMSLP offer many different verions of scores, these come in the form of scanned by users of IMSLP. Within the collection of scores within imslp many ranged in how they were uploaded, some where scannded in just the musical notes so appeared on a white background and qwewre clear to see, however some where scanned from original scores so on off-white coloured backrounds, this leads to many of the notes being hard to ideantify. Only scans of original manuscripts are available, and only available in PDF form with no availabity of music software notated sheet music. 
+Diffuculties that arose within the musical scores came within the qualities of these scores. IMSLP offer many different verions of scores, these come in the form of scanned by users of IMSLP. Within the collection of scores within IMSLP many ranged in how they were uploaded, some were scannded as newly transcribed versions so appeared on a white background and were clear to see, however some where scanned from original scores so on off-white coloured backrounds, this leads to many of the notes being hard to ideantify. Only scans of original manuscripts are available, and only available in PDF form with no availabity of music software notated sheet music. 
 
 ### Audio Recording 
 Similar issues to the musical scores arose within the audio recordings. This included again a range of quality in the recordings with all including noises that distort the sound of the music audio, by miscellaneous recording noises such as crackling.
@@ -36,7 +36,7 @@ Similar issues to the musical scores arose within the audio recordings. This inc
 
 # Week 2
 
-See below my edited version of a violin and piano transcription of the opening section of my chosen piece. When uploaded on Musescore there were a number of issues faced.The opening scene was not massively effected, However when the piece moved into more intricate notes and articultionsthis is were many erros ocurred. This ranged from pitch and rhythm of the notes. Within the base line of the piece there was a change of clef which also was not transcribed by the OMR engine. Any grace notes or ornamants of such were also misssing from the transcription 
+See below my edited version of a violin and piano transcription of the opening section of my chosen piece. When uploaded on MuseScore there were a number of issues faced. The opening scene was not massively effected, However when the piece moved into more intricate notes and articultions, this is were many errors ocurred. This ranged from the pitch and rhythm of the notes. Within the base line of the piece there was a change of clef which also was not transcribed by the OMR engine. Any grace notes or ornamants of such were also misssing from the transcription 
 
  This can be accessed through the link [here](https://github.com/rkirk903/MCA-2024/blob/master/MusicAnalyticsScore2619532K.mscz) 
  
@@ -164,7 +164,7 @@ See my linked HTML page,[here](https://rkirk903.github.io/MCA-2024/metaRAW.html)
 
 
 > **Task 1: Find and describe 3 audio tracks relating to your theme**
-The three tracks I have chosen are within my theme of orchestral pieces of the romantic period composed by tchaickovsky. See Table Below of the technical and non technical meta data of each recording: 
+The three tracks I have chosen are within my theme of orchestral pieces written during the romantic period and composed by tchaickovsky. See Table Below for the technical and non technical meta data of each recording: 
 
 | Title | Artist | Composer | Copyright Domain | Genre | Source | File/audio format | Number of Channels | Sample Rate | Bits per Second | Duration |
 | ------|--------|----------|------------------|-------|---------|----------|--------------------|-------------|-----------------|----------|
@@ -174,7 +174,7 @@ The three tracks I have chosen are within my theme of orchestral pieces of the r
 
 > **Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
 
-Below see a portion of my sonic visualiser outpu for my three chosen pieces .
+Below see a portion of my sonic visualiser output for my three chosen pieces .
 * **TOP**: Waveform 
 - **BOTTOM**: Spectogram
 
@@ -197,7 +197,7 @@ Below see a portion of my sonic visualiser outpu for my three chosen pieces .
 
 
 One advantage on time frequency analysis over waveform-based analysis is that time- frequency analysis outputs and displays more ranges of information about the audio. The time-based frequency analysis shows areas of more intensity within the music and an overall outlook of the whole piece. While a waveform-based analysis only displays amplitude and volume, time frequency analysis shows the frequency and length and patterns of certain sound/pitch. This allows also for the movement and volumes of instruments to be identified, while this cannot be made out in a waveform-based analysis. 
-To link this back to the outputs of my audio you can see the amount of orange sections is significantly less on the first two pieces compared to Serenade for Strings (bottom picture) This is due to the more intensity in volume pitch and instruments compared to that of the concerto. the Serenade in Strings which contains very clear chord changes, we can clearly see this in the spectrogram with the placement of the orange sections towards the bottom and the length and height of the colour, also the patterns of pitch rising and falling across the different instruments and how this changes across the piece, which is one of the main advantages of a time-frequency analysis over a waveform based one.
+To link this back to the outputs of my audio, you can see the amount of orange sections is significantly less on the first two pieces compared to Serenade for Strings (bottom picture) This is due to the more intensity in volume pitch and instruments compared to that of the concerto. the Serenade in Strings which contains very clear chord changes, we can clearly see this in the spectrogram with the placement of the orange sections towards the bottom and the length and height of the colour, also the patterns of pitch rising and falling across the different instruments and how this changes across the piece, which is one of the main advantages of a time-frequency analysis over a waveform based one.
 
 
 
@@ -247,7 +247,7 @@ Above I have plotted the histograms of the chorograms for each of my three piece
 
 >**Task 1: Similarity**
 
-Below see my visualisations from the computations of my similarity matrix. This is a similarity matrix between 7 sample tracks and then my three previous chosen tracks. Tracks 0 to 3 were classical and then tracks 4 to 6 were country and then my chosen tracks were tracks 7(Violin Concerto), 8(Valse) and 9(Serenade for Strings). However as my chosen songs were classical this meant tracks 0-3 and 7-9 were identified as being quite similar 
+Below see my visualisations from the computations of my similarity matrix and my visualiser of the tracks in 2D. This is a similarity matrix between 7 sample tracks and then my three previous chosen tracks. Tracks 0 to 3 were classical and then tracks 4 to 6 were country and then my chosen tracks were tracks 7(Violin Concerto), 8(Valse) and 9(Serenade for Strings). However as my chosen songs were classical this meant tracks 0-3 and 7-9 were identified as being quite similar . See visualisations Below: 
 
 ## Similarity Matrices Left: C's & A's Right : All notes 
 ![week9picture 1 ](https://github.com/user-attachments/assets/c5ed630e-ae76-4f4f-aa1e-61000f709f4f)
