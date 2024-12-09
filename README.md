@@ -82,12 +82,12 @@ See my linked [MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/week3m
 
 * Most Common rhythmic value : 0.5
 
-  This can also be viewed in my attatched CSV [Download here](https://github.com/rkirk903/MCA-2024/blob/master/week4values.csv)
+  This can also be viewed in my attatched [CSV](https://github.com/rkirk903/MCA-2024/blob/master/week4values.csv)
 
 > **Task 2: Generate a piano roll and pitch histogram of your piece using music21.**
 
 
-See below my piano roll generated using music 21 :
+See below my piano roll and other visual graphs generated using music 21 :
 
 ## Piano Roll
 
@@ -117,7 +117,7 @@ See below my piano roll generated using music 21 :
 + Publisher : P Juregenson 
 * Date : 1888
 - Location : Moscow
-- Opus Number :35
+- Encoded by: Ria Kirkwoood 
 
 
 
@@ -125,7 +125,7 @@ See below my piano roll generated using music 21 :
 
 
 
-Download my edited MEI document here [Week 5 MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/Week5Lab.mei)
+Access my edited MEI document here [Week 5 MEI](https://github.com/rkirk903/MCA-2024/blob/master/data/Week5Lab.mei)
 
 
 
@@ -138,10 +138,14 @@ Download my further edited MEI file [here](https://github.com/rkirk903/MCA-2024/
 
 See my linked HTML page,[here](https://rkirk903.github.io/MCA-2024/metaRAW.html)
 
-[View HTML File](https://rkirk903.github.io/MCA-2024/metaRAW.html))
 
 
 <iframe src="https://rkirk903.github.io/MCA-2024/metaRAW.html" width="1000" height="800"></iframe>
+
+
+
+
+
 
 > **Discuss why you have made the choices you made.**
 
@@ -171,8 +175,8 @@ The three tracks I have schosen are within my theme of orchestral pieces of the 
 > **Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
 
 Below see a portion of my sonic visualiser outpu for my three chosen pieces .
-* TOP: Waveform 
-- BOTTOM: Spectogram
+* **TOP**: Waveform 
+- **BOTTOM**: Spectogram
 
 ## Violin Concerto in D major. 
 ![concerto week 8 ss](https://github.com/user-attachments/assets/1dded657-5278-4555-8698-974c8b504bd1)
@@ -203,9 +207,9 @@ To link this back to the outputs of my audio you can see the amount of orange se
 > **Task 1: Extract features**
 
 see below my attached sonic visualiser outputs 
-* TOP: Spectogram
-- MIDDLE: Mel FRequency Cepstral 
-+ BOTTOM: Chromogram
+* **TOP**: Spectogram
+- **MIDDLE**: Mel FRequency Cepstral 
++ **BOTTOM**: Chromogram
 
 
 ## Violin concerto 
@@ -261,6 +265,17 @@ Below see my visualisations from the computations of my similarity matrix. This 
 ## My Transcription After:
 
 <img src="https://github.com/user-attachments/assets/b1108e3e-c4b8-4c53-a2ef-01bd421ea224" alt="Piano Roll" width="300" height="400"><img src="https://github.com/user-attachments/assets/b1108e3e-c4b8-4c53-a2ef-01bd421ea224" alt="Piano Roll" width="300" height="400">
+
+
+
+
+
+ > **Display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost.**
+
+When comparing the two transcriptions it can be identified that MuseScore has not been able to identify the piano and the violin part as seperate parts, however the violin melodic line can be found. Also the key signature and many of the clefs are wron, however it has successfully transcribed many of the right rhythms. Pitch wise when playing them back the majority sound extremely similar to the original, however as becuase of the wrong key many of them are wrong. In conclusion this method cannot be a reliable method of transcribing audio and should be highly edited and reviewed first. 
+The file of the transcription can be accessed [Here](https://github.com/rkirk903/MCA-2024/blob/master/Week10transcription.mscz)
+
+
 
 
 
