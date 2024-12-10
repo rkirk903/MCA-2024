@@ -132,6 +132,7 @@ Access my edited MEI document here [Week 5 MEI](https://github.com/rkirk903/MCA-
 # Week 7
  > **Task 1: Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities**
 
+See below my attached uptated MEI file where i have updated the meta data to include genre classsifications and specific liscensing data. 
 Download my further edited MEI file [here](https://github.com/rkirk903/MCA-2024/blob/master/data/week7)
 
  > **Task 2: Render your revised MEI metadata along with your score on an HTML page.**
