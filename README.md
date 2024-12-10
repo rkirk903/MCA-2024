@@ -180,12 +180,16 @@ Below see a portion of my sonic visualiser output for my three chosen pieces .
 - **BOTTOM**: Spectogram
 
 ## Violin Concerto in D major. 
-![concerto week 8 ss](https://github.com/user-attachments/assets/1dded657-5278-4555-8698-974c8b504bd1)
+<img width="1093" alt="Screenshot 2024-12-10 at 11 27 07" src="https://github.com/user-attachments/assets/4b13b02b-e9a2-441e-868b-e5f1a649af1c">
+
+
 
 
 ## Swan Lake: Valse
 
 ![valse week 8 ](https://github.com/user-attachments/assets/8b9502eb-fb9f-4d07-86d2-177b83b380cc)
+
+
 
 
 
